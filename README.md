@@ -1,4 +1,4 @@
-Assignment 1 :
+Plumber👩‍🔧
 
 This is my first web development project.
 
@@ -11,7 +11,7 @@ Technologies Used :
 	•	HTML5
 	•	CSS3
 
-	live demo:https://melinajdt.github.io/Plumber-/
+	live demo:  https://melinajdt.github.io/Plumber-/
 
 Author :
 
